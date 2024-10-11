@@ -1,14 +1,13 @@
-# 👋 Hi, I'm Karina
+# 👋 Hi, I'm Karina López Rodríguez
+Welcome to my GitHub! I'm a Software Engineering student at the University of Puerto Rico - Mayagüez, passionate about developing efficient, scalable software solutions and tackling real-world challenges through coding.
 
-Welcome to my GitHub! I'm a Software Engineering Student with a passion for coding and problem-solving.
+# 🌱 Currently Learning
+I'm currently diving into malware analysis, x86 Assembly, and machine learning classifiers, while enhancing my skills in Python, Scheme, and Assembly.
 
-## 🌱 Currently Learning
+# 🔧 Tech Stack
+Languages: Python, Java, C++, JavaScript, Assembly, Scheme, HTML, CSS
+Tools: Docker, RabbitMQ, PyCharm, Visual Studio Code, GitHub, Linux (Ubuntu)
+Frameworks: Node.js, Vue.js
 
-I'm currently diving into the fascinating world of Data Structures and Algorithms in Java.
 
-## 🔧 Tech Stack
-
-- **Languages:** Python, C++, Java
-- **Tools:** Eclipse, VsCode, PyCharm
-
-Feel free to explore my repositories, learn, and connect! 😊
+Feel free to explore my repositories, contribute, or connect with me! 😊
